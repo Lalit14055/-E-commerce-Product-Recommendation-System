@@ -1,0 +1,241 @@
+product_id,product_name,category,description,price
+1,Lite Headphones 215,Electronics,"Lite headphones for electronics lovers. Features: portable, display, charging, noise. Ideal for cancelling, bluetooth, battery, wireless needs.",115.34
+2,Essential Smartwatch 844,Electronics,"Essential smartwatch for electronics lovers. Features: usb, compact, fast, rechargeable. Ideal for noise, bluetooth, display, smart needs.",159.76
+3,Lite Headphones 238,Electronics,"Lite headphones for electronics lovers. Features: fast, cancelling, usb, rechargeable. Ideal for charging, wireless, battery, compact needs.",172.35
+4,Lite Webcam 303,Electronics,"Lite webcam for electronics lovers. Features: cancelling, fast, rechargeable, usb. Ideal for battery, portable, display, wireless needs.",169.1
+5,Premium Webcam 713,Electronics,"Premium webcam for electronics lovers. Features: fast, noise, wireless, charging. Ideal for smart, compact, portable, display needs.",39.24
+6,Ultra Power Bank 225,Electronics,"Ultra power bank for electronics lovers. Features: smart, usb, wireless, fast. Ideal for rechargeable, noise, charging, display needs.",33.06
+7,Max Charger 127,Electronics,"Max charger for electronics lovers. Features: rechargeable, display, cancelling, compact. Ideal for noise, portable, smart, wireless needs.",112.0
+8,Classic Webcam 600,Electronics,"Classic webcam for electronics lovers. Features: noise, bluetooth, cancelling, wireless. Ideal for rechargeable, charging, battery, fast needs.",197.06
+9,Max Webcam 244,Electronics,"Max webcam for electronics lovers. Features: usb, bluetooth, display, portable. Ideal for noise, fast, wireless, battery needs.",127.76
+10,Ultra Webcam 206,Electronics,"Ultra webcam for electronics lovers. Features: compact, portable, battery, rechargeable. Ideal for usb, cancelling, bluetooth, charging needs.",240.66
+11,Prime Charger 186,Electronics,"Prime charger for electronics lovers. Features: usb, cancelling, battery, compact. Ideal for rechargeable, noise, charging, portable needs.",226.14
+12,Premium Headphones 488,Electronics,"Premium headphones for electronics lovers. Features: compact, cancelling, smart, bluetooth. Ideal for rechargeable, usb, display, battery needs.",158.69
+13,Eco Headphones 192,Electronics,"Eco headphones for electronics lovers. Features: fast, noise, wireless, smart. Ideal for charging, rechargeable, cancelling, usb needs.",148.97
+14,Ultra Power Bank 803,Electronics,"Ultra power bank for electronics lovers. Features: rechargeable, portable, smart, display. Ideal for usb, compact, bluetooth, noise needs.",25.27
+15,Premium Speaker 494,Electronics,"Premium speaker for electronics lovers. Features: usb, cancelling, bluetooth, noise. Ideal for rechargeable, display, portable, compact needs.",10.29
+16,Elite Charger 753,Electronics,"Elite charger for electronics lovers. Features: bluetooth, usb, compact, rechargeable. Ideal for display, wireless, portable, charging needs.",193.32
+17,Ultra Speaker 385,Electronics,"Ultra speaker for electronics lovers. Features: portable, battery, bluetooth, wireless. Ideal for rechargeable, display, noise, fast needs.",238.46
+18,Classic Smartwatch 901,Electronics,"Classic smartwatch for electronics lovers. Features: charging, compact, rechargeable, battery. Ideal for noise, display, portable, fast needs.",188.41
+19,Elite Webcam 771,Electronics,"Elite webcam for electronics lovers. Features: portable, compact, bluetooth, usb. Ideal for display, charging, fast, wireless needs.",69.3
+20,Prime Headphones 276,Electronics,"Prime headphones for electronics lovers. Features: compact, smart, cancelling, fast. Ideal for rechargeable, wireless, bluetooth, charging needs.",81.03
+21,Lite Webcam 209,Electronics,"Lite webcam for electronics lovers. Features: usb, charging, portable, fast. Ideal for bluetooth, compact, wireless, display needs.",129.05
+22,Max Webcam 933,Electronics,"Max webcam for electronics lovers. Features: portable, bluetooth, wireless, display. Ideal for fast, cancelling, charging, usb needs.",102.41
+23,Essential Webcam 669,Electronics,"Essential webcam for electronics lovers. Features: smart, fast, portable, charging. Ideal for wireless, usb, display, rechargeable needs.",30.94
+24,Ultra Power Bank 116,Electronics,"Ultra power bank for electronics lovers. Features: usb, battery, cancelling, bluetooth. Ideal for compact, wireless, rechargeable, display needs.",31.74
+25,Elite Speaker 436,Electronics,"Elite speaker for electronics lovers. Features: portable, bluetooth, charging, smart. Ideal for battery, fast, compact, noise needs.",109.34
+26,Max Headphones 159,Electronics,"Max headphones for electronics lovers. Features: battery, display, smart, usb. Ideal for fast, portable, charging, rechargeable needs.",150.64
+27,Ultra Charger 203,Electronics,"Ultra charger for electronics lovers. Features: rechargeable, cancelling, charging, battery. Ideal for compact, bluetooth, smart, fast needs.",10.18
+28,Pro Power Bank 886,Electronics,"Pro power bank for electronics lovers. Features: bluetooth, cancelling, charging, wireless. Ideal for display, usb, noise, compact needs.",213.53
+29,Pro Smartwatch 570,Electronics,"Pro smartwatch for electronics lovers. Features: cancelling, compact, charging, fast. Ideal for battery, bluetooth, noise, rechargeable needs.",29.91
+30,Elite Headphones 800,Electronics,"Elite headphones for electronics lovers. Features: wireless, cancelling, portable, bluetooth. Ideal for fast, display, rechargeable, charging needs.",162.41
+31,Lite Coffee Maker 339,Home & Kitchen,"Lite coffee maker for home & kitchen lovers. Features: countertop, nonstick, dishwasher, safe. Ideal for stainless, cooking, family, durable needs.",39.24
+32,Premium Cookware Set 366,Home & Kitchen,"Premium cookware set for home & kitchen lovers. Features: cooking, family, countertop, stainless. Ideal for kitchen, safe, nonstick, clean needs.",237.47
+33,Prime Knife Set 668,Home & Kitchen,"Prime knife set for home & kitchen lovers. Features: dishwasher, countertop, clean, safe. Ideal for durable, cooking, nonstick, kitchen needs.",75.6
+34,Lite Air Fryer 175,Home & Kitchen,"Lite air fryer for home & kitchen lovers. Features: durable, steel, easy, nonstick. Ideal for stainless, safe, dishwasher, countertop needs.",234.31
+35,Ultra Knife Set 630,Home & Kitchen,"Ultra knife set for home & kitchen lovers. Features: steel, safe, brew, dishwasher. Ideal for nonstick, durable, clean, countertop needs.",28.29
+36,Max Coffee Maker 542,Home & Kitchen,"Max coffee maker for home & kitchen lovers. Features: steel, safe, brew, countertop. Ideal for durable, stainless, dishwasher, clean needs.",151.9
+37,Prime Blender 399,Home & Kitchen,"Prime blender for home & kitchen lovers. Features: brew, stainless, durable, dishwasher. Ideal for steel, family, safe, clean needs.",225.1
+38,Lite Knife Set 444,Home & Kitchen,"Lite knife set for home & kitchen lovers. Features: clean, family, durable, safe. Ideal for dishwasher, cooking, steel, kitchen needs.",183.77
+39,Eco Air Fryer 206,Home & Kitchen,"Eco air fryer for home & kitchen lovers. Features: safe, nonstick, kitchen, easy. Ideal for brew, dishwasher, steel, clean needs.",213.38
+40,Max Toaster 512,Home & Kitchen,"Max toaster for home & kitchen lovers. Features: cooking, durable, countertop, safe. Ideal for brew, easy, dishwasher, stainless needs.",113.37
+41,Essential Blender 195,Home & Kitchen,"Essential blender for home & kitchen lovers. Features: steel, countertop, dishwasher, brew. Ideal for safe, easy, nonstick, cooking needs.",249.78
+42,Max Blender 278,Home & Kitchen,"Max blender for home & kitchen lovers. Features: safe, clean, easy, family. Ideal for stainless, brew, countertop, nonstick needs.",228.11
+43,Max Air Fryer 151,Home & Kitchen,"Max air fryer for home & kitchen lovers. Features: family, dishwasher, brew, steel. Ideal for stainless, easy, clean, countertop needs.",201.24
+44,Prime Toaster 769,Home & Kitchen,"Prime toaster for home & kitchen lovers. Features: easy, countertop, durable, safe. Ideal for clean, stainless, dishwasher, family needs.",159.35
+45,Elite Blender 148,Home & Kitchen,"Elite blender for home & kitchen lovers. Features: cooking, clean, steel, safe. Ideal for durable, family, stainless, kitchen needs.",156.0
+46,Pro Blender 804,Home & Kitchen,"Pro blender for home & kitchen lovers. Features: steel, family, countertop, clean. Ideal for nonstick, cooking, safe, durable needs.",160.92
+47,Eco Toaster 233,Home & Kitchen,"Eco toaster for home & kitchen lovers. Features: durable, kitchen, brew, cooking. Ideal for family, steel, countertop, dishwasher needs.",129.55
+48,Premium Knife Set 670,Home & Kitchen,"Premium knife set for home & kitchen lovers. Features: easy, countertop, cooking, clean. Ideal for durable, family, steel, dishwasher needs.",105.89
+49,Premium Blender 614,Home & Kitchen,"Premium blender for home & kitchen lovers. Features: steel, safe, family, dishwasher. Ideal for cooking, durable, stainless, brew needs.",143.61
+50,Lite Coffee Maker 424,Home & Kitchen,"Lite coffee maker for home & kitchen lovers. Features: cooking, kitchen, clean, safe. Ideal for countertop, nonstick, dishwasher, brew needs.",130.62
+51,Lite Knife Set 544,Home & Kitchen,"Lite knife set for home & kitchen lovers. Features: easy, cooking, family, countertop. Ideal for durable, safe, dishwasher, steel needs.",33.38
+52,Pro Blender 113,Home & Kitchen,"Pro blender for home & kitchen lovers. Features: nonstick, cooking, brew, dishwasher. Ideal for durable, easy, safe, stainless needs.",207.66
+53,Elite Knife Set 794,Home & Kitchen,"Elite knife set for home & kitchen lovers. Features: safe, clean, family, kitchen. Ideal for countertop, steel, dishwasher, easy needs.",81.19
+54,Max Knife Set 249,Home & Kitchen,"Max knife set for home & kitchen lovers. Features: countertop, cooking, stainless, durable. Ideal for safe, easy, nonstick, brew needs.",209.89
+55,Prime Toaster 779,Home & Kitchen,"Prime toaster for home & kitchen lovers. Features: steel, durable, dishwasher, countertop. Ideal for cooking, clean, brew, family needs.",111.28
+56,Premium Cookware Set 627,Home & Kitchen,"Premium cookware set for home & kitchen lovers. Features: family, kitchen, easy, dishwasher. Ideal for stainless, durable, steel, clean needs.",125.86
+57,Pro Blender 429,Home & Kitchen,"Pro blender for home & kitchen lovers. Features: clean, safe, steel, brew. Ideal for countertop, durable, easy, family needs.",137.18
+58,Essential Toaster 864,Home & Kitchen,"Essential toaster for home & kitchen lovers. Features: family, dishwasher, durable, safe. Ideal for easy, countertop, nonstick, kitchen needs.",88.44
+59,Premium Coffee Maker 272,Home & Kitchen,"Premium coffee maker for home & kitchen lovers. Features: countertop, stainless, cooking, durable. Ideal for dishwasher, nonstick, easy, clean needs.",11.08
+60,Prime Coffee Maker 982,Home & Kitchen,"Prime coffee maker for home & kitchen lovers. Features: nonstick, steel, safe, brew. Ideal for stainless, durable, cooking, kitchen needs.",156.99
+61,Premium Water Bottle 758,Fitness,"Premium water bottle for fitness lovers. Features: exercise, gym, lightweight, nonslip. Ideal for home, flexible, muscle, recovery needs.",112.82
+62,Eco Jump Rope 211,Fitness,"Eco jump rope for fitness lovers. Features: training, nonslip, grip, exercise. Ideal for lightweight, home, muscle, cardio needs.",15.03
+63,Lite Jump Rope 599,Fitness,"Lite jump rope for fitness lovers. Features: home, recovery, muscle, cardio. Ideal for lightweight, nonslip, flexible, exercise needs.",201.5
+64,Prime Dumbbell Set 795,Fitness,"Prime dumbbell set for fitness lovers. Features: cardio, nonslip, home, recovery. Ideal for workout, grip, strength, training needs.",217.04
+65,Lite Foam Roller 708,Fitness,"Lite foam roller for fitness lovers. Features: muscle, recovery, lightweight, workout. Ideal for strength, exercise, training, nonslip needs.",12.25
+66,Premium Foam Roller 630,Fitness,"Premium foam roller for fitness lovers. Features: cardio, gym, grip, lightweight. Ideal for muscle, home, flexible, strength needs.",102.25
+67,Classic Yoga Mat 366,Fitness,"Classic yoga mat for fitness lovers. Features: exercise, gym, grip, lightweight. Ideal for recovery, flexible, workout, training needs.",104.95
+68,Ultra Jump Rope 220,Fitness,"Ultra jump rope for fitness lovers. Features: flexible, lightweight, grip, home. Ideal for recovery, cardio, training, workout needs.",94.52
+69,Pro Yoga Mat 776,Fitness,"Pro yoga mat for fitness lovers. Features: strength, training, exercise, workout. Ideal for muscle, cardio, grip, lightweight needs.",137.51
+70,Classic Water Bottle 687,Fitness,"Classic water bottle for fitness lovers. Features: nonslip, home, gym, strength. Ideal for cardio, muscle, lightweight, exercise needs.",78.35
+71,Classic Water Bottle 494,Fitness,"Classic water bottle for fitness lovers. Features: home, recovery, exercise, flexible. Ideal for workout, strength, lightweight, training needs.",121.68
+72,Prime Water Bottle 686,Fitness,"Prime water bottle for fitness lovers. Features: muscle, gym, exercise, recovery. Ideal for strength, cardio, grip, flexible needs.",239.06
+73,Eco Foam Roller 509,Fitness,"Eco foam roller for fitness lovers. Features: workout, recovery, muscle, home. Ideal for exercise, lightweight, nonslip, training needs.",131.44
+74,Essential Foam Roller 454,Fitness,"Essential foam roller for fitness lovers. Features: cardio, grip, workout, training. Ideal for gym, flexible, recovery, home needs.",107.07
+75,Pro Yoga Mat 801,Fitness,"Pro yoga mat for fitness lovers. Features: muscle, gym, cardio, recovery. Ideal for workout, training, flexible, exercise needs.",211.09
+76,Classic Jump Rope 143,Fitness,"Classic jump rope for fitness lovers. Features: nonslip, lightweight, home, training. Ideal for muscle, recovery, strength, grip needs.",117.89
+77,Lite Water Bottle 199,Fitness,"Lite water bottle for fitness lovers. Features: gym, grip, exercise, workout. Ideal for cardio, muscle, home, training needs.",156.94
+78,Classic Resistance Bands 794,Fitness,"Classic resistance bands for fitness lovers. Features: home, gym, workout, exercise. Ideal for cardio, nonslip, recovery, training needs.",214.6
+79,Classic Dumbbell Set 818,Fitness,"Classic dumbbell set for fitness lovers. Features: cardio, gym, lightweight, home. Ideal for muscle, recovery, grip, training needs.",152.18
+80,Classic Dumbbell Set 751,Fitness,"Classic dumbbell set for fitness lovers. Features: lightweight, strength, recovery, home. Ideal for exercise, muscle, nonslip, workout needs.",178.48
+81,Lite Dumbbell Set 556,Fitness,"Lite dumbbell set for fitness lovers. Features: workout, home, gym, grip. Ideal for lightweight, training, strength, cardio needs.",247.98
+82,Pro Dumbbell Set 658,Fitness,"Pro dumbbell set for fitness lovers. Features: grip, gym, lightweight, workout. Ideal for training, nonslip, cardio, recovery needs.",71.93
+83,Pro Foam Roller 885,Fitness,"Pro foam roller for fitness lovers. Features: exercise, muscle, lightweight, flexible. Ideal for training, cardio, strength, grip needs.",67.15
+84,Max Jump Rope 476,Fitness,"Max jump rope for fitness lovers. Features: muscle, training, flexible, grip. Ideal for recovery, exercise, lightweight, gym needs.",131.07
+85,Pro Water Bottle 234,Fitness,"Pro water bottle for fitness lovers. Features: recovery, muscle, strength, workout. Ideal for nonslip, grip, training, cardio needs.",240.58
+86,Ultra Dumbbell Set 440,Fitness,"Ultra dumbbell set for fitness lovers. Features: grip, training, recovery, home. Ideal for strength, muscle, lightweight, flexible needs.",131.67
+87,Lite Yoga Mat 189,Fitness,"Lite yoga mat for fitness lovers. Features: exercise, nonslip, grip, flexible. Ideal for gym, recovery, training, cardio needs.",55.08
+88,Lite Resistance Bands 647,Fitness,"Lite resistance bands for fitness lovers. Features: recovery, grip, strength, training. Ideal for workout, lightweight, cardio, home needs.",147.34
+89,Premium Resistance Bands 246,Fitness,"Premium resistance bands for fitness lovers. Features: nonslip, muscle, workout, lightweight. Ideal for grip, cardio, strength, flexible needs.",172.72
+90,Essential Yoga Mat 267,Fitness,"Essential yoga mat for fitness lovers. Features: muscle, strength, workout, recovery. Ideal for gym, nonslip, cardio, training needs.",132.89
+91,Premium Novel 326,Books,"Premium novel for books lovers. Features: classic, paperback, author, bestselling. Ideal for gripping, edition, guide, story needs.",77.22
+92,Lite Cookbook 373,Books,"Lite cookbook for books lovers. Features: classic, illustrated, guide, insightful. Ideal for story, narrative, edition, gripping needs.",140.46
+93,Pro Biography 625,Books,"Pro biography for books lovers. Features: insightful, narrative, illustrated, guide. Ideal for author, gripping, paperback, readers needs.",185.11
+94,Classic Mystery Thriller 905,Books,"Classic mystery thriller for books lovers. Features: narrative, insightful, illustrated, bestselling. Ideal for story, chapters, author, paperback needs.",29.6
+95,Classic Biography 886,Books,"Classic biography for books lovers. Features: insightful, bestselling, readers, story. Ideal for narrative, illustrated, classic, paperback needs.",88.13
+96,Eco Science Guide 541,Books,"Eco science guide for books lovers. Features: author, illustrated, guide, story. Ideal for narrative, classic, bestselling, readers needs.",134.79
+97,Eco Biography 598,Books,"Eco biography for books lovers. Features: chapters, author, edition, classic. Ideal for guide, illustrated, story, readers needs.",55.89
+98,Classic Novel 578,Books,"Classic novel for books lovers. Features: illustrated, edition, bestselling, story. Ideal for chapters, paperback, guide, readers needs.",50.87
+99,Prime Self-Help Book 407,Books,"Prime self-help book for books lovers. Features: narrative, illustrated, bestselling, insightful. Ideal for paperback, chapters, story, edition needs.",199.64
+100,Max Science Guide 993,Books,"Max science guide for books lovers. Features: gripping, author, bestselling, classic. Ideal for edition, paperback, narrative, guide needs.",73.82
+101,Pro Self-Help Book 752,Books,"Pro self-help book for books lovers. Features: chapters, narrative, illustrated, guide. Ideal for readers, author, insightful, story needs.",117.97
+102,Max Cookbook 136,Books,"Max cookbook for books lovers. Features: illustrated, edition, bestselling, classic. Ideal for narrative, chapters, readers, insightful needs.",115.16
+103,Elite Cookbook 763,Books,"Elite cookbook for books lovers. Features: readers, narrative, classic, illustrated. Ideal for guide, edition, author, paperback needs.",103.77
+104,Eco Self-Help Book 495,Books,"Eco self-help book for books lovers. Features: narrative, bestselling, chapters, guide. Ideal for classic, readers, gripping, paperback needs.",35.82
+105,Pro Mystery Thriller 873,Books,"Pro mystery thriller for books lovers. Features: paperback, readers, chapters, illustrated. Ideal for story, guide, gripping, bestselling needs.",65.44
+106,Max Self-Help Book 587,Books,"Max self-help book for books lovers. Features: author, bestselling, story, classic. Ideal for chapters, illustrated, gripping, insightful needs.",176.84
+107,Prime Mystery Thriller 120,Books,"Prime mystery thriller for books lovers. Features: chapters, classic, paperback, guide. Ideal for readers, author, bestselling, insightful needs.",103.02
+108,Elite Mystery Thriller 668,Books,"Elite mystery thriller for books lovers. Features: chapters, paperback, readers, story. Ideal for edition, illustrated, classic, author needs.",86.86
+109,Classic Mystery Thriller 532,Books,"Classic mystery thriller for books lovers. Features: insightful, chapters, gripping, classic. Ideal for narrative, edition, guide, author needs.",116.83
+110,Classic Mystery Thriller 873,Books,"Classic mystery thriller for books lovers. Features: guide, chapters, author, edition. Ideal for illustrated, readers, gripping, paperback needs.",46.09
+111,Pro Biography 997,Books,"Pro biography for books lovers. Features: chapters, edition, author, story. Ideal for bestselling, gripping, classic, guide needs.",52.18
+112,Ultra Self-Help Book 343,Books,"Ultra self-help book for books lovers. Features: author, narrative, paperback, chapters. Ideal for edition, classic, bestselling, illustrated needs.",221.79
+113,Max Cookbook 686,Books,"Max cookbook for books lovers. Features: author, edition, classic, story. Ideal for paperback, bestselling, gripping, guide needs.",248.05
+114,Prime Novel 146,Books,"Prime novel for books lovers. Features: insightful, narrative, illustrated, bestselling. Ideal for story, chapters, classic, gripping needs.",169.7
+115,Essential Mystery Thriller 541,Books,"Essential mystery thriller for books lovers. Features: illustrated, story, guide, edition. Ideal for classic, paperback, gripping, narrative needs.",223.79
+116,Ultra Cookbook 492,Books,"Ultra cookbook for books lovers. Features: insightful, classic, story, guide. Ideal for edition, bestselling, chapters, gripping needs.",194.78
+117,Pro Novel 836,Books,"Pro novel for books lovers. Features: gripping, classic, story, paperback. Ideal for chapters, readers, bestselling, author needs.",27.73
+118,Essential Biography 297,Books,"Essential biography for books lovers. Features: edition, chapters, author, paperback. Ideal for readers, insightful, narrative, guide needs.",56.05
+119,Lite Science Guide 223,Books,"Lite science guide for books lovers. Features: edition, chapters, narrative, insightful. Ideal for bestselling, author, story, paperback needs.",165.12
+120,Premium Cookbook 359,Books,"Premium cookbook for books lovers. Features: paperback, story, illustrated, guide. Ideal for edition, classic, author, gripping needs.",185.01
+121,Eco Sneakers 333,Fashion,"Eco sneakers for fashion lovers. Features: premium, wardrobe, stylish, casual. Ideal for fashion, lightweight, fit, everyday needs.",107.57
+122,Lite Backpack 708,Fashion,"Lite backpack for fashion lovers. Features: fit, cotton, everyday, comfortable. Ideal for casual, stylish, fashion, premium needs.",21.19
+123,Pro Jacket 941,Fashion,"Pro jacket for fashion lovers. Features: lightweight, wardrobe, comfortable, fashion. Ideal for fit, stylish, cotton, everyday needs.",19.57
+124,Classic Jacket 258,Fashion,"Classic jacket for fashion lovers. Features: comfortable, wardrobe, everyday, stylish. Ideal for fit, casual, cotton, wear needs.",38.0
+125,Elite Sunglasses 898,Fashion,"Elite sunglasses for fashion lovers. Features: fit, everyday, comfortable, breathable. Ideal for casual, stylish, cotton, wardrobe needs.",232.77
+126,Pro Denim Jeans 572,Fashion,"Pro denim jeans for fashion lovers. Features: everyday, wear, wardrobe, fit. Ideal for comfortable, design, breathable, stylish needs.",249.19
+127,Pro Jacket 548,Fashion,"Pro jacket for fashion lovers. Features: cotton, fit, stylish, fashion. Ideal for comfortable, design, lightweight, wardrobe needs.",125.95
+128,Prime Backpack 878,Fashion,"Prime backpack for fashion lovers. Features: design, comfortable, wardrobe, casual. Ideal for premium, cotton, breathable, lightweight needs.",149.39
+129,Essential Sunglasses 505,Fashion,"Essential sunglasses for fashion lovers. Features: breathable, casual, fit, fashion. Ideal for cotton, everyday, wear, design needs.",144.14
+130,Premium Jacket 750,Fashion,"Premium jacket for fashion lovers. Features: design, lightweight, casual, fit. Ideal for wear, fashion, cotton, comfortable needs.",100.33
+131,Classic Leather Wallet 147,Fashion,"Classic leather wallet for fashion lovers. Features: fashion, cotton, premium, fit. Ideal for breathable, casual, design, lightweight needs.",236.65
+132,Essential Leather Wallet 768,Fashion,"Essential leather wallet for fashion lovers. Features: breathable, design, premium, stylish. Ideal for wardrobe, lightweight, everyday, wear needs.",213.78
+133,Premium Backpack 343,Fashion,"Premium backpack for fashion lovers. Features: wardrobe, comfortable, premium, stylish. Ideal for casual, fashion, design, fit needs.",44.34
+134,Lite Jacket 889,Fashion,"Lite jacket for fashion lovers. Features: cotton, comfortable, casual, fit. Ideal for stylish, wear, lightweight, design needs.",96.74
+135,Ultra Sneakers 475,Fashion,"Ultra sneakers for fashion lovers. Features: wardrobe, cotton, premium, fashion. Ideal for fit, wear, everyday, breathable needs.",34.01
+136,Lite Leather Wallet 720,Fashion,"Lite leather wallet for fashion lovers. Features: cotton, fashion, premium, wardrobe. Ideal for stylish, casual, design, comfortable needs.",45.03
+137,Max Sunglasses 269,Fashion,"Max sunglasses for fashion lovers. Features: breathable, design, stylish, comfortable. Ideal for cotton, lightweight, premium, wear needs.",89.31
+138,Pro Backpack 670,Fashion,"Pro backpack for fashion lovers. Features: fit, wear, comfortable, cotton. Ideal for lightweight, fashion, casual, breathable needs.",110.11
+139,Premium Sneakers 911,Fashion,"Premium sneakers for fashion lovers. Features: casual, wear, premium, comfortable. Ideal for fit, stylish, cotton, lightweight needs.",16.05
+140,Prime Backpack 610,Fashion,"Prime backpack for fashion lovers. Features: comfortable, design, stylish, fit. Ideal for wardrobe, cotton, premium, lightweight needs.",102.32
+141,Premium Denim Jeans 879,Fashion,"Premium denim jeans for fashion lovers. Features: everyday, casual, fashion, premium. Ideal for wear, stylish, comfortable, cotton needs.",178.42
+142,Elite Sunglasses 908,Fashion,"Elite sunglasses for fashion lovers. Features: stylish, casual, wardrobe, design. Ideal for fit, breathable, lightweight, comfortable needs.",243.09
+143,Lite Jacket 801,Fashion,"Lite jacket for fashion lovers. Features: fashion, wear, everyday, design. Ideal for lightweight, fit, wardrobe, casual needs.",114.29
+144,Prime Backpack 941,Fashion,"Prime backpack for fashion lovers. Features: premium, cotton, fashion, comfortable. Ideal for fit, casual, lightweight, stylish needs.",244.41
+145,Classic Sneakers 662,Fashion,"Classic sneakers for fashion lovers. Features: casual, lightweight, design, wear. Ideal for everyday, cotton, comfortable, stylish needs.",54.46
+146,Elite Sunglasses 950,Fashion,"Elite sunglasses for fashion lovers. Features: comfortable, lightweight, fashion, breathable. Ideal for fit, wardrobe, wear, premium needs.",97.69
+147,Lite Backpack 748,Fashion,"Lite backpack for fashion lovers. Features: cotton, fashion, lightweight, comfortable. Ideal for wardrobe, stylish, breathable, casual needs.",46.37
+148,Prime Denim Jeans 537,Fashion,"Prime denim jeans for fashion lovers. Features: design, wear, premium, comfortable. Ideal for breathable, lightweight, stylish, fit needs.",122.1
+149,Premium Leather Wallet 906,Fashion,"Premium leather wallet for fashion lovers. Features: wardrobe, lightweight, stylish, design. Ideal for wear, fashion, premium, cotton needs.",121.51
+150,Pro Denim Jeans 412,Fashion,"Pro denim jeans for fashion lovers. Features: wardrobe, fit, lightweight, wear. Ideal for design, premium, everyday, fashion needs.",167.32
+151,Max Sunscreen 293,Beauty,"Max sunscreen for beauty lovers. Features: glow, nourishing, care, tested. Ideal for formula, dermatologist, gentle, vitamin needs.",187.57
+152,Ultra Shampoo 238,Beauty,"Ultra shampoo for beauty lovers. Features: radiant, formula, vitamin, care. Ideal for natural, dermatologist, hydrating, daily needs.",53.43
+153,Classic Shampoo 232,Beauty,"Classic shampoo for beauty lovers. Features: hydrating, vitamin, nourishing, daily. Ideal for radiant, care, gentle, natural needs.",71.99
+154,Essential Moisturizer 832,Beauty,"Essential moisturizer for beauty lovers. Features: vitamin, natural, daily, dermatologist. Ideal for hydrating, skin, radiant, glow needs.",114.82
+155,Elite Shampoo 382,Beauty,"Elite shampoo for beauty lovers. Features: nourishing, hydrating, formula, gentle. Ideal for tested, care, radiant, natural needs.",71.84
+156,Ultra Shampoo 678,Beauty,"Ultra shampoo for beauty lovers. Features: nourishing, dermatologist, natural, gentle. Ideal for radiant, skin, glow, daily needs.",217.46
+157,Prime Lipstick Set 529,Beauty,"Prime lipstick set for beauty lovers. Features: tested, glow, nourishing, radiant. Ideal for natural, care, daily, gentle needs.",126.11
+158,Premium Shampoo 994,Beauty,"Premium shampoo for beauty lovers. Features: care, hydrating, tested, natural. Ideal for glow, formula, gentle, nourishing needs.",218.86
+159,Elite Face Serum 366,Beauty,"Elite face serum for beauty lovers. Features: skin, radiant, vitamin, gentle. Ideal for natural, hydrating, care, nourishing needs.",46.6
+160,Ultra Moisturizer 829,Beauty,"Ultra moisturizer for beauty lovers. Features: skin, daily, nourishing, dermatologist. Ideal for radiant, formula, vitamin, glow needs.",69.85
+161,Prime Hair Dryer 486,Beauty,"Prime hair dryer for beauty lovers. Features: dermatologist, tested, glow, daily. Ideal for care, natural, skin, gentle needs.",110.97
+162,Classic Sunscreen 993,Beauty,"Classic sunscreen for beauty lovers. Features: tested, nourishing, radiant, vitamin. Ideal for glow, care, dermatologist, daily needs.",14.47
+163,Classic Moisturizer 275,Beauty,"Classic moisturizer for beauty lovers. Features: care, radiant, daily, hydrating. Ideal for gentle, dermatologist, skin, vitamin needs.",105.46
+164,Premium Shampoo 321,Beauty,"Premium shampoo for beauty lovers. Features: radiant, nourishing, care, glow. Ideal for hydrating, dermatologist, vitamin, tested needs.",183.8
+165,Lite Face Serum 915,Beauty,"Lite face serum for beauty lovers. Features: hydrating, formula, gentle, dermatologist. Ideal for natural, skin, radiant, glow needs.",201.67
+166,Classic Lipstick Set 458,Beauty,"Classic lipstick set for beauty lovers. Features: gentle, natural, formula, radiant. Ideal for hydrating, nourishing, skin, care needs.",13.6
+167,Ultra Face Serum 145,Beauty,"Ultra face serum for beauty lovers. Features: gentle, formula, vitamin, glow. Ideal for radiant, tested, natural, hydrating needs.",217.52
+168,Essential Lipstick Set 888,Beauty,"Essential lipstick set for beauty lovers. Features: vitamin, hydrating, nourishing, care. Ideal for tested, skin, formula, glow needs.",134.23
+169,Lite Hair Dryer 623,Beauty,"Lite hair dryer for beauty lovers. Features: skin, tested, gentle, care. Ideal for hydrating, formula, dermatologist, radiant needs.",101.8
+170,Lite Sunscreen 963,Beauty,"Lite sunscreen for beauty lovers. Features: gentle, daily, radiant, tested. Ideal for dermatologist, care, natural, vitamin needs.",181.85
+171,Prime Sunscreen 887,Beauty,"Prime sunscreen for beauty lovers. Features: care, daily, vitamin, gentle. Ideal for radiant, tested, formula, skin needs.",74.59
+172,Lite Lipstick Set 691,Beauty,"Lite lipstick set for beauty lovers. Features: glow, daily, care, gentle. Ideal for formula, radiant, nourishing, natural needs.",208.25
+173,Pro Hair Dryer 127,Beauty,"Pro hair dryer for beauty lovers. Features: formula, gentle, nourishing, radiant. Ideal for hydrating, vitamin, natural, tested needs.",102.13
+174,Prime Shampoo 577,Beauty,"Prime shampoo for beauty lovers. Features: natural, tested, dermatologist, radiant. Ideal for formula, care, nourishing, skin needs.",195.92
+175,Classic Sunscreen 528,Beauty,"Classic sunscreen for beauty lovers. Features: nourishing, radiant, hydrating, dermatologist. Ideal for skin, gentle, care, glow needs.",115.14
+176,Max Face Serum 911,Beauty,"Max face serum for beauty lovers. Features: vitamin, formula, skin, tested. Ideal for nourishing, hydrating, daily, glow needs.",230.86
+177,Essential Sunscreen 219,Beauty,"Essential sunscreen for beauty lovers. Features: hydrating, natural, radiant, skin. Ideal for care, formula, glow, daily needs.",207.68
+178,Eco Sunscreen 411,Beauty,"Eco sunscreen for beauty lovers. Features: skin, vitamin, glow, dermatologist. Ideal for gentle, care, radiant, daily needs.",119.57
+179,Ultra Face Serum 869,Beauty,"Ultra face serum for beauty lovers. Features: natural, gentle, tested, daily. Ideal for dermatologist, glow, hydrating, care needs.",24.05
+180,Lite Hair Dryer 598,Beauty,"Lite hair dryer for beauty lovers. Features: natural, glow, daily, radiant. Ideal for formula, vitamin, tested, hydrating needs.",157.36
+181,Max Building Blocks 467,Toys & Games,"Max building blocks for toys & games lovers. Features: colorful, safe, play, imagination. Ideal for kids, fun, pieces, learning needs.",26.24
+182,Classic Art Kit 548,Toys & Games,"Classic art kit for toys & games lovers. Features: creative, educational, learning, colorful. Ideal for imagination, fun, interactive, pieces needs.",156.83
+183,Prime Plush Toy 928,Toys & Games,"Prime plush toy for toys & games lovers. Features: safe, play, learning, educational. Ideal for imagination, colorful, ages, family needs.",125.91
+184,Premium RC Car 791,Toys & Games,"Premium rc car for toys & games lovers. Features: fun, ages, creative, play. Ideal for safe, pieces, family, educational needs.",184.7
+185,Pro Plush Toy 470,Toys & Games,"Pro plush toy for toys & games lovers. Features: colorful, fun, creative, safe. Ideal for imagination, learning, ages, pieces needs.",191.11
+186,Classic Puzzle 325,Toys & Games,"Classic puzzle for toys & games lovers. Features: pieces, play, fun, safe. Ideal for educational, ages, family, colorful needs.",69.4
+187,Eco RC Car 575,Toys & Games,"Eco rc car for toys & games lovers. Features: pieces, interactive, play, educational. Ideal for fun, kids, safe, family needs.",209.05
+188,Essential Board Game 592,Toys & Games,"Essential board game for toys & games lovers. Features: fun, interactive, pieces, family. Ideal for learning, safe, imagination, play needs.",142.39
+189,Eco Board Game 864,Toys & Games,"Eco board game for toys & games lovers. Features: ages, imagination, educational, play. Ideal for learning, interactive, colorful, pieces needs.",114.34
+190,Classic Puzzle 158,Toys & Games,"Classic puzzle for toys & games lovers. Features: colorful, imagination, interactive, fun. Ideal for play, safe, family, kids needs.",18.46
+191,Eco Art Kit 821,Toys & Games,"Eco art kit for toys & games lovers. Features: educational, imagination, play, interactive. Ideal for colorful, fun, pieces, kids needs.",223.8
+192,Pro Puzzle 638,Toys & Games,"Pro puzzle for toys & games lovers. Features: safe, educational, play, learning. Ideal for pieces, ages, fun, interactive needs.",238.52
+193,Premium Art Kit 116,Toys & Games,"Premium art kit for toys & games lovers. Features: play, interactive, colorful, ages. Ideal for creative, pieces, learning, imagination needs.",112.6
+194,Max RC Car 320,Toys & Games,"Max rc car for toys & games lovers. Features: creative, educational, play, ages. Ideal for family, pieces, interactive, fun needs.",15.43
+195,Classic Art Kit 116,Toys & Games,"Classic art kit for toys & games lovers. Features: learning, interactive, pieces, imagination. Ideal for educational, fun, safe, kids needs.",231.62
+196,Prime RC Car 863,Toys & Games,"Prime rc car for toys & games lovers. Features: imagination, colorful, learning, pieces. Ideal for educational, safe, creative, kids needs.",155.39
+197,Max Art Kit 524,Toys & Games,"Max art kit for toys & games lovers. Features: interactive, educational, family, colorful. Ideal for pieces, ages, creative, fun needs.",129.91
+198,Essential RC Car 759,Toys & Games,"Essential rc car for toys & games lovers. Features: family, safe, creative, play. Ideal for fun, kids, educational, pieces needs.",57.73
+199,Elite Art Kit 987,Toys & Games,"Elite art kit for toys & games lovers. Features: pieces, ages, fun, imagination. Ideal for creative, learning, safe, colorful needs.",41.9
+200,Pro Building Blocks 860,Toys & Games,"Pro building blocks for toys & games lovers. Features: learning, interactive, ages, colorful. Ideal for educational, play, kids, safe needs.",132.42
+201,Elite Board Game 237,Toys & Games,"Elite board game for toys & games lovers. Features: pieces, colorful, kids, learning. Ideal for fun, creative, safe, educational needs.",173.45
+202,Pro Puzzle 652,Toys & Games,"Pro puzzle for toys & games lovers. Features: colorful, pieces, learning, family. Ideal for play, creative, fun, ages needs.",96.56
+203,Max Board Game 576,Toys & Games,"Max board game for toys & games lovers. Features: pieces, safe, kids, play. Ideal for creative, ages, family, learning needs.",150.41
+204,Pro Puzzle 640,Toys & Games,"Pro puzzle for toys & games lovers. Features: colorful, pieces, fun, educational. Ideal for ages, safe, play, learning needs.",192.14
+205,Classic Art Kit 231,Toys & Games,"Classic art kit for toys & games lovers. Features: safe, creative, family, pieces. Ideal for interactive, colorful, play, imagination needs.",87.39
+206,Prime Puzzle 217,Toys & Games,"Prime puzzle for toys & games lovers. Features: colorful, imagination, educational, kids. Ideal for ages, interactive, play, fun needs.",17.67
+207,Prime Plush Toy 332,Toys & Games,"Prime plush toy for toys & games lovers. Features: interactive, fun, imagination, play. Ideal for educational, kids, safe, family needs.",128.61
+208,Elite Plush Toy 370,Toys & Games,"Elite plush toy for toys & games lovers. Features: family, learning, imagination, kids. Ideal for play, ages, creative, fun needs.",12.61
+209,Essential Building Blocks 744,Toys & Games,"Essential building blocks for toys & games lovers. Features: pieces, learning, imagination, play. Ideal for safe, educational, fun, family needs.",119.29
+210,Essential RC Car 211,Toys & Games,"Essential rc car for toys & games lovers. Features: imagination, interactive, family, safe. Ideal for kids, creative, colorful, pieces needs.",63.42
+211,Lite Trekking Poles 407,Outdoors,"Lite trekking poles for outdoors lovers. Features: travel, waterproof, mountain, durable. Ideal for packable, insulated, weather, camping needs.",44.9
+212,Eco Tent 197,Outdoors,"Eco tent for outdoors lovers. Features: outdoor, durable, camping, weather. Ideal for rugged, hiking, mountain, adventure needs.",63.86
+213,Classic Sleeping Bag 180,Outdoors,"Classic sleeping bag for outdoors lovers. Features: travel, mountain, adventure, weather. Ideal for camping, durable, waterproof, packable needs.",11.18
+214,Classic Hiking Backpack 787,Outdoors,"Classic hiking backpack for outdoors lovers. Features: rugged, outdoor, adventure, hiking. Ideal for trail, durable, packable, camping needs.",211.85
+215,Elite Sleeping Bag 792,Outdoors,"Elite sleeping bag for outdoors lovers. Features: rugged, insulated, packable, outdoor. Ideal for adventure, camping, weather, hiking needs.",27.85
+216,Max Hiking Backpack 472,Outdoors,"Max hiking backpack for outdoors lovers. Features: weather, outdoor, travel, packable. Ideal for camping, trail, durable, insulated needs.",15.4
+217,Premium Camping Lantern 394,Outdoors,"Premium camping lantern for outdoors lovers. Features: waterproof, insulated, camping, rugged. Ideal for packable, adventure, mountain, hiking needs.",128.12
+218,Premium Tent 330,Outdoors,"Premium tent for outdoors lovers. Features: waterproof, durable, travel, hiking. Ideal for insulated, weather, adventure, camping needs.",242.59
+219,Lite Tent 336,Outdoors,"Lite tent for outdoors lovers. Features: adventure, waterproof, insulated, durable. Ideal for travel, mountain, outdoor, hiking needs.",232.75
+220,Ultra Cooler Box 332,Outdoors,"Ultra cooler box for outdoors lovers. Features: outdoor, weather, travel, insulated. Ideal for adventure, waterproof, camping, rugged needs.",167.42
+221,Ultra Sleeping Bag 240,Outdoors,"Ultra sleeping bag for outdoors lovers. Features: durable, adventure, rugged, outdoor. Ideal for packable, insulated, weather, waterproof needs.",30.52
+222,Prime Trekking Poles 951,Outdoors,"Prime trekking poles for outdoors lovers. Features: weather, rugged, insulated, waterproof. Ideal for mountain, trail, adventure, travel needs.",82.11
+223,Essential Hiking Backpack 134,Outdoors,"Essential hiking backpack for outdoors lovers. Features: weather, mountain, adventure, waterproof. Ideal for packable, trail, rugged, outdoor needs.",165.16
+224,Essential Tent 431,Outdoors,"Essential tent for outdoors lovers. Features: durable, adventure, weather, travel. Ideal for rugged, insulated, mountain, camping needs.",136.61
+225,Classic Sleeping Bag 448,Outdoors,"Classic sleeping bag for outdoors lovers. Features: rugged, trail, packable, waterproof. Ideal for insulated, weather, travel, camping needs.",89.62
+226,Eco Trekking Poles 152,Outdoors,"Eco trekking poles for outdoors lovers. Features: outdoor, durable, travel, mountain. Ideal for waterproof, trail, rugged, camping needs.",110.13
+227,Max Cooler Box 750,Outdoors,"Max cooler box for outdoors lovers. Features: insulated, hiking, outdoor, trail. Ideal for adventure, camping, travel, rugged needs.",217.99
+228,Max Camping Lantern 873,Outdoors,"Max camping lantern for outdoors lovers. Features: adventure, outdoor, durable, weather. Ideal for rugged, mountain, travel, trail needs.",163.86
+229,Premium Sleeping Bag 279,Outdoors,"Premium sleeping bag for outdoors lovers. Features: hiking, mountain, rugged, waterproof. Ideal for weather, insulated, camping, durable needs.",76.62
+230,Prime Hiking Backpack 104,Outdoors,"Prime hiking backpack for outdoors lovers. Features: waterproof, adventure, travel, insulated. Ideal for trail, mountain, camping, rugged needs.",183.73
+231,Prime Cooler Box 637,Outdoors,"Prime cooler box for outdoors lovers. Features: adventure, travel, trail, durable. Ideal for mountain, waterproof, insulated, hiking needs.",225.04
+232,Prime Camping Lantern 546,Outdoors,"Prime camping lantern for outdoors lovers. Features: packable, hiking, mountain, weather. Ideal for adventure, travel, rugged, camping needs.",230.22
+233,Pro Cooler Box 615,Outdoors,"Pro cooler box for outdoors lovers. Features: weather, insulated, travel, trail. Ideal for durable, camping, mountain, rugged needs.",127.01
+234,Eco Trekking Poles 610,Outdoors,"Eco trekking poles for outdoors lovers. Features: trail, insulated, hiking, packable. Ideal for mountain, waterproof, rugged, camping needs.",21.94
+235,Ultra Hiking Backpack 179,Outdoors,"Ultra hiking backpack for outdoors lovers. Features: camping, mountain, outdoor, insulated. Ideal for weather, rugged, travel, adventure needs.",10.82
+236,Pro Cooler Box 989,Outdoors,"Pro cooler box for outdoors lovers. Features: waterproof, adventure, trail, rugged. Ideal for travel, weather, outdoor, insulated needs.",41.78
+237,Elite Camping Lantern 429,Outdoors,"Elite camping lantern for outdoors lovers. Features: waterproof, trail, durable, adventure. Ideal for camping, hiking, weather, packable needs.",132.75
+238,Premium Hiking Backpack 220,Outdoors,"Premium hiking backpack for outdoors lovers. Features: packable, trail, mountain, adventure. Ideal for durable, insulated, outdoor, waterproof needs.",175.0
+239,Elite Cooler Box 772,Outdoors,"Elite cooler box for outdoors lovers. Features: packable, travel, camping, mountain. Ideal for trail, hiking, durable, rugged needs.",22.61
+240,Eco Cooler Box 211,Outdoors,"Eco cooler box for outdoors lovers. Features: outdoor, rugged, waterproof, weather. Ideal for insulated, camping, mountain, trail needs.",141.04
